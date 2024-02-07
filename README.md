@@ -13,8 +13,6 @@ When contributing to this repository, please first discuss the change you wish t
 3. Make sure all corresponding test cases pass.
 4. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 
-Note that we have a code of conduct. Follow it in all your interactions with the project.
-
 ## Known Issues
 A list of known issues and features that are currently being addressed are maintained on the github issues tab. Please look at the list of known issues before raising a new issue.
 
